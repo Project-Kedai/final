@@ -96,9 +96,6 @@
       </a>
 
       <nav id="navmenu" class="navmenu d-flex align-items-center justify-content-between px-3">
-        <ul class="d-flex align-items-center gap-3 mb-0 list-unstyled">
-          <li><a href="#menu">Menu</a></li>
-        </ul>
 
         <div class="d-flex align-items-center gap-3">
           <!-- Cart -->
